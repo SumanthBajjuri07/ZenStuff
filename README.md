@@ -13,6 +13,8 @@ DocEnTr: https://arxiv.org/pdf/2201.10252.pdf
 
 Vit-Pytorch: https://github.com/lucidrains/vit-pytorch
 
+AFT-Pytorch: https://github.com/rish-16/aft-pytorch
+
 Python Module prep: https://www.w3schools.com/python/python_modules.asp
 
 Transformer Attention Mech blog: https://machinelearningmastery.com/the-transformer-attention-mechanism/#:~:text=the%20Transformer%20is%20the%20first,You%20Need%2C%20Vaswani%20et%20al.
