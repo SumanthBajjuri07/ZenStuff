@@ -13,7 +13,9 @@ DocEnTr: https://arxiv.org/pdf/2201.10252.pdf
 
 Vit-Pytorch: https://github.com/lucidrains/vit-pytorch
 
-AFT-Pytorch: https://github.com/rish-16/aft-pytorch
+AFT-Pytorch1: https://github.com/rish-16/aft-pytorch
+
+AFT-Pytorch2: https://github.com/lvyufeng/AFT-MindSpore 
 
 Python Module prep: https://www.w3schools.com/python/python_modules.asp
 
